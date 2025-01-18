@@ -1,4 +1,4 @@
-# Co2-Emission-Prediction-Using-Machine-learning
+# Co2 Emission Prediction Using Machine learning
 The CO2 Emission Prediction project With Code, Documents And Video Tutorial
 
 ![Co2 Emmision](https://github.com/user-attachments/assets/971edf41-e9b6-4771-ac21-2f589a3a54cf)
